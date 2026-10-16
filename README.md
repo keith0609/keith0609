@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keith0609
-- 👀 I’m interested in devoloping my test automation skills
-- 🌱 I’m currently learning making small tests
+- 👀 I’m interested in devoloping my AI skills
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on devop junior projects
 - 📫 How to reach me linked in
 
