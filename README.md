@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keith0609
 - 👀 I’m interested in devoloping my AI skills
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on devop junior projects
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me linked in
 
 <!---
